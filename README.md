@@ -22,7 +22,7 @@ Run `pip install pickle-mixin` in the terminal
 
 Run `python DRIVER.py` in the .\IntrodcutionToProgramming\ directory.
 
-## For Programm flow chart it can be found here [Flow Chart](https://github.com/frentzen2003/IntroductionToProgramming/blob/main/IP_GROUP_1_FLOW_CHART.pdf)
+## For Programm flow chart it can be found here [Flow Chart](https://github.com/frentzen2003/Simple-Python-Command-Line-Interface-Game/blob/main/Flow%20Chart.pdf)
 
 ## Other notes
 
